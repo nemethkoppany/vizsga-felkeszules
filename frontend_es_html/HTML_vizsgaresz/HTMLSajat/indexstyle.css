@@ -1,0 +1,33 @@
+body {
+    background-image: url("../webprojekt_bootstrap/webprojekt_bootstrap/forrasok/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 480px;
+}
+
+.minden {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.minden h1 {
+    text-align: center;
+    width: 100%;
+}
+
+.btn:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+.gombok {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,16 @@
+<h2>Cégünkről</h2>
+<p>Cégünk az autóalkatrész-kereskedelem területén szerzett többéves tapasztalatával kínálja Önnek a legjobb minőségű alkatrészeket, gyors szállítással és kedvező árakkal. Webshopunkban széles választékban találhatók az autókarbantartáshoz és javításhoz szükséges alkatrészek, legyen szó akár motoralkatrészekről, fékekről, felfüggesztésekről, elektronikai eszközökről, vagy más járműtípusokhoz illeszkedő termékekről.</p>
+
+<h2>Hitvallásunk</h2>
+<ul>
+  <li>Küldetésünknek érezzük, hogy az általunk kínált termékekkel és szolgáltatásokkal a hozzánk forduló embereket elvárásaikon felüli, minőségi kiszolgálásban tudjuk részesíteni.</li>
+  <li>Ezért igyekszünk teljes körű termékkínálatot biztosítani több kategóriában, annak érdekében, hogy mindenki megtalálhassa nálunk, amit keres.</li>
+  <li>Gyári és gyártói minőségű prémium és standard megbízható alkatrészek egyaránt kaphatók üzleteinkben.</li>
+  <li>Arra törekszünk, hogy kiváló kapcsolatot építsünk ki belföldi és külföldi beszállítóinkkal, partnereinkkel.</li>
+  <li>Magasan kvalifikált, elhivatott kollégáink állnak vásárlóink szolgálatában.</li>
+  <li>Igyekszünk ügyfélbarát, modern informatikai és logisztikai rendszert fenntartani.</li>
+  <li>Folyamatosan bővítjük, fejlesztjük üzlethálózatunkat és webáruházunkat.</li>
+</ul>
+
+<p><strong>Bízunk benne, hogy nálunk megtalálja, amire szüksége van, és segíthetünk autója hibamentes működésében!<br>
+Böngésszen nyugodtan webshopunkban, és ha bármilyen kérdése lenne, bátran keressen minket!</strong></p>
