@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             List<LigetNapok> ligetNap = new List<LigetNapok>();
-            var sorok = File.ReadAllLines("liget_napok.txt").Skip(1);
+            var sorok = File.ReadAllLines("liget_napo.txt").Skip(1);
             foreach (var s in sorok)
             {
                 var sor = s.Split("\t");
