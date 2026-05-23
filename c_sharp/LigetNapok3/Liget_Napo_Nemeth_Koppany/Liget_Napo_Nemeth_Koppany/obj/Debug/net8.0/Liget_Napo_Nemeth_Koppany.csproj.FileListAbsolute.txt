@@ -1,0 +1,16 @@
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\bin\Debug\net8.0\Liget_Napo_Nemeth_Koppany.exe
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\bin\Debug\net8.0\liget_napok.txt
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\bin\Debug\net8.0\Liget_Napo_Nemeth_Koppany.deps.json
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\bin\Debug\net8.0\Liget_Napo_Nemeth_Koppany.runtimeconfig.json
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\bin\Debug\net8.0\Liget_Napo_Nemeth_Koppany.dll
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\bin\Debug\net8.0\Liget_Napo_Nemeth_Koppany.pdb
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.AssemblyInfoInputs.cache
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.AssemblyInfo.cs
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.csproj.CoreCompileInputs.cache
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.sourcelink.json
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.dll
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\refint\Liget_Napo_Nemeth_Koppany.dll
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.pdb
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\Liget_Napo_Nemeth_Koppany.genruntimeconfig.cache
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok3\Liget_Napo_Nemeth_Koppany\Liget_Napo_Nemeth_Koppany\obj\Debug\net8.0\ref\Liget_Napo_Nemeth_Koppany.dll

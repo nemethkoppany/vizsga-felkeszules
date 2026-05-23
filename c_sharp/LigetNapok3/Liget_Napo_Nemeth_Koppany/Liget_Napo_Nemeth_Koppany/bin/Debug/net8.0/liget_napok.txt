@@ -1,0 +1,29 @@
+azon	cim	helyszin	datum	kategoria	resztvevok
+1	Tavaszi nyitókoncert	Liget Színpad	2026.03.12	koncert	88
+2	Kézműves kosárfonás	Művelődési Ház	2026.03.13	workshop	16
+3	Családi társasjáték délután	Fő tér	2026.03.14	családi	42
+4	Festmény- és plakátkiállítás	Városi Galéria	2026.03.15	kiállítás	61
+5	Akusztikus est	Liget Színpad	2026.03.16	koncert	92
+6	Vetőmag- és palántabörze	Kertudvar	2026.03.17	családi	55
+7	Illusztrációs workshop	Művelődési Ház	2026.03.18	workshop	24
+8	Kortárs fotókiállítás	Városi Galéria	2026.03.19	kiállítás	73
+9	Ifjúsági kórusműsor	Liget Színpad	2026.03.20	koncert	79
+10	Papírhajtogató műhely	Művelődési Ház	2026.03.21	workshop	19
+11	Tavaszi mesedélután	Kertudvar	2026.03.22	családi	48
+12	Helytörténeti tárlat	Városi Galéria	2026.03.23	kiállítás	58
+13	Szabadtéri DJ-est	Liget Színpad	2026.03.24	koncert	84
+14	Virágkötő bemutató	Művelődési Ház	2026.03.25	workshop	22
+15	Bábos családi program	Fő tér	2026.03.26	családi	37
+16	Kertészeti fotótárlat	Városi Galéria	2026.03.27	kiállítás	66
+17	Táncos est	Liget Színpad	2026.03.28	koncert	90
+18	Mini terrárium készítés	Kertudvar	2026.03.29	workshop	18
+19	Tavaszi bábelőadás	Fő tér	2026.03.30	családi	41
+20	Közösségi grafikai kiállítás	Városi Galéria	2026.03.31	kiállítás	52
+21	Gitárduó	Liget Színpad	2026.04.01	koncert	85
+22	Illatos szappankészítés	Művelődési Ház	2026.04.02	workshop	21
+23	Zsongó játszóház	Kertudvar	2026.04.03	családi	46
+24	Tavaszi kézműves vásár	Városi Galéria	2026.04.04	kiállítás	69
+25	Fényfestett koncert	Liget Színpad	2026.04.05	koncert	89
+26	Fenntartható cserebere workshop	Művelődési Ház	2026.04.06	workshop	25
+27	Nagyszülők délutánja	Fő tér	2026.04.07	családi	53
+28	Plakátdesign tárlat	Városi Galéria	2026.04.08	kiállítás	63

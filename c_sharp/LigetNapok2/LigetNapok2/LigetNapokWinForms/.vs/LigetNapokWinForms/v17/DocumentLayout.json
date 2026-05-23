@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{8E646B3A-5A3D-45E3-858A-D73F3E178736}|LigetNapokWinForms\\LigetNapokWinForms.csproj|solutionrelative:ligetnapokwinforms\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E646B3A-5A3D-45E3-858A-D73F3E178736}|LigetNapokWinForms\\LigetNapokWinForms.csproj|c:\\tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\ligetnapok2\\ligetnapok2\\ligetnapokwinforms\\ligetnapokwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E646B3A-5A3D-45E3-858A-D73F3E178736}|LigetNapokWinForms\\LigetNapokWinForms.csproj|C:\\Tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\LigetNapok2\\LigetNapok2\\LigetNapokWinForms\\ligetnapokwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E646B3A-5A3D-45E3-858A-D73F3E178736}|LigetNapokWinForms\\LigetNapokWinForms.csproj|solutionrelative:ligetnapokwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "LigetNapokWinForms\\Form1.cs",
               "ToolTip": "C:\\Tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\LigetNapok2\\LigetNapok2\\LigetNapokWinForms\\LigetNapokWinForms\\Form1.cs",
               "RelativeToolTip": "LigetNapokWinForms\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T15:59:53.445Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "ToolTip": "C:\\Tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\LigetNapok2\\LigetNapok2\\LigetNapokWinForms\\LigetNapokWinForms\\Form1.cs [Design]",
               "RelativeToolTip": "LigetNapokWinForms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:58:29.752Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-19T15:58:29.752Z"
             }
           ]
         }
