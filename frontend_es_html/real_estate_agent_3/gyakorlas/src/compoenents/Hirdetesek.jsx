@@ -19,7 +19,7 @@ useEffect(()=>{
 
     return(
         <div>
-            <table>
+            <table className="table table-striped">
                 <thead>
                     <tr>
                     <th>Kategória</th>
