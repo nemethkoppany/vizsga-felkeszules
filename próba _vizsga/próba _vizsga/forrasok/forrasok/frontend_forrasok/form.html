@@ -1,0 +1,80 @@
+ <div class="container">
+      <h2 class="my-4 text-center">Új csapat felvétele</h2>
+      <div class="row">
+        <div class="offset-lg-3 offset-md-2 col-lg-6 col-md-8 col-12">
+          <form>
+            <div class="mb-3">
+              <div class="row">
+                <div class="col-6">
+                  <label for="nev"> Új csapat neve </label>
+                </div>
+              </div>
+              <input class="form-control" type="text" id="nev" name="nev" />
+            </div>
+
+            <div class="mb-3">
+              <div class="row">
+                <div class="col-6">
+                  <label for="auto"> Autó elnevezése </label>
+                </div>
+              </div>
+              <input class="form-control" type="text" id="auto" name="auto" />
+            </div>
+            <div class="mb-3">
+              <div class="row">
+                <div class="col-6">
+                  <label for="bemutato"> Autó bemutatója </label>
+                </div>
+              </div>
+              <input class="form-control" type="text" id="bemutato" name="bemutato" />
+            </div>
+
+            <div class="mb-3">
+              <label for="motor" class="form-label">
+                Csapat által használt motor
+              </label>
+              <select class="form-control" name="motor" id="motor">
+                <option>Mercedes</option>
+                <option>Ferrari</option>
+              </select>
+            </div>
+
+            <div class="mb-3">
+              <label for="nemzetiseg" class="form-label">
+                Csapat nemzetisége
+              </label>
+              <select class="form-control" name="nemzetiseg" id="nemzetiseg" >
+                <option>Brit</option>
+                <option>Német</option>
+              </select>
+            </div>
+
+            <div class="mb-3">
+              <div class="row">
+                <div class="col-6">
+                  <label for="kep"> Képfájl neve </label>
+                </div>
+              </div>
+              <input
+                placeholder="pl.: a526.webp"
+                class="form-control"
+                type="text"
+                id="kep"
+                name="kep"
+              />
+            </div>
+
+
+            <div class="mb-3 text-center">
+              <button class="btn btn-primary px-5">Felvétel</button>
+            </div>
+
+            <div class="alert alert-danger alert-dismissible" role="alert">
+              <strong>HIBAÜZENET</strong>
+              <button type="button" class="btn-close"></button>
+            </div>
+			
+          </form>
+        </div>
+      </div>
+    </div>

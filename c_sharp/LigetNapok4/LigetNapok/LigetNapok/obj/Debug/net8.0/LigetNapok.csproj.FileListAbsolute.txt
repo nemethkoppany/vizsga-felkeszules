@@ -1,0 +1,16 @@
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\bin\Debug\net8.0\LigetNapok.exe
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\bin\Debug\net8.0\liget_napok.txt
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\bin\Debug\net8.0\LigetNapok.deps.json
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\bin\Debug\net8.0\LigetNapok.runtimeconfig.json
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\bin\Debug\net8.0\LigetNapok.dll
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\bin\Debug\net8.0\LigetNapok.pdb
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.AssemblyInfoInputs.cache
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.AssemblyInfo.cs
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.csproj.CoreCompileInputs.cache
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.sourcelink.json
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.dll
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\refint\LigetNapok.dll
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.pdb
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\LigetNapok.genruntimeconfig.cache
+C:\Tanulás\vizsga-felkeszules\c_sharp\LigetNapok4\LigetNapok\LigetNapok\obj\Debug\net8.0\ref\LigetNapok.dll
