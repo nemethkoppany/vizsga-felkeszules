@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{03A70BFD-6773-4C3B-83D5-8BD6CC1E3E02}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03A70BFD-6773-4C3B-83D5-8BD6CC1E3E02}|WinFormsApp1\\WinFormsApp1.csproj|c:\\tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\ligetnapok3\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{03A70BFD-6773-4C3B-83D5-8BD6CC1E3E02}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\LigetNapok3\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{03A70BFD-6773-4C3B-83D5-8BD6CC1E3E02}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -51,8 +51,7 @@
               "RelativeToolTip": "WinFormsApp1\\DataController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T14:11:04.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T14:11:04.007Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\Tanul\u00E1s\\vizsga-felkeszules\\c_sharp\\LigetNapok3\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T14:03:38.492Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-23T14:03:38.492Z"
             }
           ]
         }
